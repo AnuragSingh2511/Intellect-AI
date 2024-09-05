@@ -191,7 +191,7 @@ function Home() {
                               className={`${litePoppins2.className} text-sm mt-2`}
                             >
                               "
-                              {data?.prompt.length > 50
+                              {data?.prompt?.length > 50
                                 ? data?.prompt?.slice(0, 50) + "..."
                                 : data?.prompt}
                               "
