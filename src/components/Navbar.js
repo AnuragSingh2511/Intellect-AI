@@ -38,7 +38,7 @@ function Navbar() {
             />
           </div>
           <Image
-            src="/logo2.png"
+            src="/https://res.cloudinary.com/dv6xzm0qn/image/upload/v1725798546/images/kx9vnhska6ckxzobvvoh.png"
             alt="logo"
             className="sm:hidden block"
             width={50}

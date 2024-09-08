@@ -106,12 +106,12 @@ function Sidebar() {
         >
           <div className="logo-section hidden md:block">
             <Link href="/home">
-              <Image src="/logo1.png" width={220} height={220} alt="Logo" />
+              <Image src="https://res.cloudinary.com/dv6xzm0qn/image/upload/v1725798546/images/b4ajpu7pdl1nluzmuezn.png" width={220} height={220} alt="Logo" />
             </Link>
           </div>
           <div className="logo-section block md:hidden">
             <Link href="/home">
-              <Image src="/logo2.png" width={50} height={50} alt="Logo" />
+              <Image src="https://res.cloudinary.com/dv6xzm0qn/image/upload/v1725798546/images/kx9vnhska6ckxzobvvoh.png" width={50} height={50} alt="Logo" />
             </Link>
           </div>
           <Link
